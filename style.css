@@ -1,0 +1,14 @@
+body{
+    background-color: rgba(110, 133, 197, 0.678);
+}
+
+#description{
+    font-family: 'Times New Roman', Times, serif;
+}
+.listhabilidade{
+    color: white;
+}
+#foto{
+    border-radius: 50%;
+}
+
