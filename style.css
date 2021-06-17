@@ -1,14 +1,24 @@
 body{
-    background-color: rgba(110, 133, 197, 0.678);
+    background-color: rgba(152, 193, 217);
 }
 
+h1{
+    color: white;
+}
 #description{
     font-family: 'Times New Roman', Times, serif;
+    color: white;
 }
 .listhabilidade{
-    color: white;
+    color: rgb(224, 251, 252);
+}
+.linkspag{
+    color: rgb(88, 190, 199);
 }
 #foto{
     border-radius: 50%;
+}
+strong{
+    color: rgb(61, 90, 118)
 }
 
