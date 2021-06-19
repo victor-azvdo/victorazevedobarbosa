@@ -43,4 +43,4 @@ ul li:nth-child(odd){
     background-color: rgb(135, 168, 202)
     /* Aqui estamos usando combinação de classe e a pseudoclasse nth-child(odd).
      * O comando está selecioando apenas os ímpares = odd, mas poderia ser par = even */
-    
+}    
